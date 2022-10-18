@@ -1,5 +1,5 @@
 class School {
-  constructror(name, level, numberOfStudents) {
+  constructor(name, level, numberOfStudents) {
     this._name = name;
     this._level = level;
     this._numberOfStudents = numberOfStudents;
